@@ -5,7 +5,7 @@ import math
 import re
 
 # KONFIGURASI
-database_dir = 'asli'   # Folder berisi JSON referensi tanda tangan asli
+database_dir = 'train'   # Folder berisi JSON referensi tanda tangan asli
 test_dir = 'test'       # Folder berisi file JSON yang akan diuji
 output_txt = 'test_results.txt' # File output hasil pengujian
 
